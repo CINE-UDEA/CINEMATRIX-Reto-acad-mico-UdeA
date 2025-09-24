@@ -24,5 +24,7 @@ Breve descripción del reto, qué hace el código, qué problema resuelve y cóm
 - Markdown para documentación
 
 ## 📂 Estructura del repositorio
+<!-- actividad:start -->
+<!-- actividad:end -->
 
   
