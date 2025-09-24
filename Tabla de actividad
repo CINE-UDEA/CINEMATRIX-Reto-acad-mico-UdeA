@@ -1,0 +1,33 @@
+.github/workflows/update-readme.yml
+on:
+  schedule:
+    - cron: '0 12 * * 1'  # Todos los lunes a las 12pm
+  workflow_dispatch:
+
+jobs:
+  actualizar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Clonar repositorio
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
+      - name: Generar tabla de actividad
+        run: |
+          total=$(git rev-list --count HEAD)
+          echo "| Usuario | Commits | % actividad |" > actividad.md
+          git log --pretty=format:"%an" | sort | uniq -c | sort -rn | awk -v total="$total" '{printf "| %s | %d | %.2f%% |\n", $2, $1, ($1/total)*100}' >> actividad.md
+
+      - name: Insertar tabla en README
+        run: |
+          sed -i '/<!-- actividad:start -->/,/<!-- actividad:end -->/c\
+          <!-- actividad:start -->\n\
+          '"$(cat actividad.md)"'\n\
+          <!-- actividad:end -->' README.md
+
+      - name: Commit y push
+        uses: EndBug/add-and-commit@v9
+        with:
+          message: "Actualización automática de tabla de actividad"
+          add: "README.md"
