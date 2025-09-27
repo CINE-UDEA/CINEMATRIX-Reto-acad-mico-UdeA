@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./Logo%20Productora%20de%20Cine%20Ilustrado%20Gris%20(2)%20(1).png" width="300"/>
+</p>
+
 # 💻 Proyecto: CINEMATRIX
 
 Este repositorio forma parte de la organización **CINE-UDEA** y fue desarrollado por estudiantes de Ingeniería Industrial como parte de un reto académico colaborativo.
