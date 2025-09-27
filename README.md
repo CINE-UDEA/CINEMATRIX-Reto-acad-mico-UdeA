@@ -16,8 +16,9 @@ Este repositorio forma parte de la organización **CINE-UDEA** y fue desarrollad
 | Denisse Fabiana Hurtado   | @denissef5           | [fecha automática]* | Diseño y presentación      |
 
 > *Puedes usar herramientas como [GitHub Insights](https://docs.github.com/en/organizations/insights) o revisar los commits para ver la actividad de cada integrante.
+
 🎨 **Denisse Fabiana Hurtado**  
-- 📚 Programa: [Tu programa académico] — Universidad de Antioquia  
+- 📚 Programa: Ingenieria Industrial — Universidad de Antioquia  
 - 🖌️ Rol: Diseño y presentación en el reto CINEMATRIX  
 - 💬 Frase: *"El diseño no es solo cómo se ve, sino cómo funciona."*  
 - 🌟 Habilidades: Presentación de proyectos, diseño visual, creatividad, herramientas de Colab y GitHub.  
