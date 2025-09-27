@@ -23,7 +23,10 @@ Este repositorio forma parte de la organización **CINE-UDEA** y fue desarrollad
 - 💬 Frase: *"El diseño no es solo cómo se ve, sino cómo funciona."*  
 - 🌟 Habilidades: Presentación de proyectos, diseño visual, creatividad, herramientas de Colab y GitHub.  
 - 💪 Fortalezas: Organización, comunicación visual, trabajo en equipo.  
-- 💻 Intereses: Programación web, inteligencia artificial, diseño de interfaces y tecnología educativa.  
+- 💻 Intereses: Programación web, inteligencia artificial, diseño de interfaces y tecnología educativa.
+
+
+
 
 ## 🧠 Descripción del proyecto
 
