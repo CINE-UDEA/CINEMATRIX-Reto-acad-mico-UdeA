@@ -11,9 +11,9 @@ Este repositorio forma parte de la organización **CINE-UDEA** y fue desarrollad
 | Nombre completo         | Usuario GitHub        | Última conexión | Rol en el proyecto         |
 |------------------------|-----------------------|------------------|-----------------------------|
 | Tomás Álvarez Rodríguez| @tomasalvarez-Shado   | [fecha automática]* | Coordinador técnico         |
-| Angélica Paola Gómez Pacheco   | @luznunez-netizen          | [fecha automática]* | Desarrollo y documentación |
-| Luz darys Nuñez Zapata   | @[usuario2]           | [fecha automática]* | Testing y validación       |
-| [Nombre compañera 3]   | @[usuario3]           | [fecha automática]* | Diseño y presentación      |
+| Angélica Paola Gómez Pacheco   |           | [fecha automática]* | Desarrollo y documentación |
+| Luz darys Nuñez Zapata   | @@luznunez-netizen           | [fecha automática]* | Testing y validación       |
+| Denisse Fabiana Hurtado   | @denissef5           | [fecha automática]* | Diseño y presentación      |
 
 > *Puedes usar herramientas como [GitHub Insights](https://docs.github.com/en/organizations/insights) o revisar los commits para ver la actividad de cada integrante.
 
