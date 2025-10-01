@@ -38,7 +38,7 @@ Este repositorio forma parte de la organización **CINE-UDEA** y fue desarrollad
   
 
 ## Documentación del Proyecto
-- - [Especificación de Requisitos](requisitos.md)  
+- [Especificación de Requisitos](requisitos.md)  
 - [Visión del Proyecto CINEMATRIX](vision.md)  
 - [Integrantes y Vínculos Académicos](Integrantes-Vínculos%20acad%C3%A9micos%20y%20descripci%C3%B3n.md)
 
