@@ -1,54 +1,63 @@
-Tomás Álvarez Rodríguez
-🎓 Programa académico: Ingeniería Industrial — Universidad de Antioquia 
-📚 Semestre actual: 3° semestre 
-🧠 Rol dentro del reto: Líder académico y técnico. 
-💬 Frase inspiradora: "La seguridad digital no es solo técnica, es también compromiso humano." 
 
-🔗 Vínculo académico: Integro la ingeniería industrial, la ciberseguridad educativa y la automatización colaborativa para potenciar el liderazgo técnico en entornos pedagógicos. Mi enfoque combina pensamiento crítico, resolución técnica y compromiso institucional para construir soluciones con propósito humano.
+## 👨‍💻 Tomás Álvarez Rodríguez
 
-🛠 Habilidades técnicas y académicas:
--Análisis de riesgos y protección de la información
--Optimización de procesos y documentación técnica
--Resolución de problemas técnicos en ciberseguridad
--Facilitación de talleres educativos masivos
--Comunicación efectiva y liderazgo empático
+### 🎓 Programa académico  
+Ingeniería Industrial — Universidad de Antioquia  
+📚 Semestre actual: 3° semestre
+🧠 Rol en el proyecto CINEMATRIX  
+Líder académico y técnico. Coordino el desarrollo algorítmico, la documentación pedagógica y la integración colaborativa en Colab.
 
-🌟 Fortalezas personales:
--Curiosidad constante y pensamiento crítico
--Liderazgo intergeneracional y colaborativo
--Compromiso institucional y ética profesional
--Capacidad de síntesis y visión estratégica
+💬 Frase inspiradora  "La seguridad digital no es solo técnica, es también compromiso humano."
 
-🎓 Intereses académicos y profesionales:
--Automatización colaborativa en entornos educativos
--Ciberseguridad aplicada y hacking ético
--Modelos mentales para liderazgo técnico
--Educación masiva con enfoque en excelencia académica
+🔗 Vínculo académico  
+Integro la ingeniería industrial, la ciberseguridad educativa y la automatización colaborativa para potenciar el liderazgo técnico en entornos pedagógicos. Mi enfoque combina pensamiento crítico, resolución técnica y compromiso institucional.
 
-💼 Experiencia académica y técnica:
--Facilitador de talleres educativos para más de 300 estudiantes
--Participación en laboratorios de hacking ético (Academia Antioquia)
--Quinto lugar en Páramo CTF Colombia 2025
--Documentación de hallazgos en pruebas de penetración (Linux: Kali, Parrot)
--Análisis de tráfico de red con Wireshark y escaneo con Nmap
--Resolución de desafíos en criptografía, ingeniería inversa y seguridad web
+### 🛠️ Habilidades técnicas y académicas  
+- Análisis de riesgos y protección de la información  
+- Optimización de procesos y documentación técnica  
+- Facilitación de talleres educativos masivos  
+- Resolución de problemas técnicos en tiempo real  
+- Comunicación efectiva y liderazgo empático
 
-🛠️ Herramientas y tecnologías:
--Sistemas Operativos: Linux (Kali, Parrot), Windows 10/11
--Seguridad: Wireshark, Nmap, Burp Suite
--Bases de Datos: MySQL, PostgreSQL
--Otros: Git / GitHub, Docker (básico)
+### 🌟 Fortalezas personales  
+- Curiosidad constante y pensamiento crítico  
+- Liderazgo intergeneracional y colaborativo  
+- Capacidad de síntesis y visión estratégica  
+- Ética profesional y compromiso institucional
 
-📜 Certificaciones:
--Ciberseguridad – Academia Antioquia
--Ethical Hacking – CertiProf
--Especialización en Data Analytics – Netzun (en curso)
--FORTINET: Amenazas 2.0
--Inteligencia Artificial – Talento TECH
--Apoyo institucional – Alcaldía de Bello (2024)
+### 🎯 Intereses académicos y profesionales  
+- Automatización colaborativa en entornos educativos  
+- Ciberseguridad aplicada y hacking ético  
+- Modelos mentales para liderazgo técnico  
+- Educación masiva con enfoque en excelencia académica
 
-📫 Contacto: 🌐 LinkedIn: Tomás Álvarez Rodríguez
-✨ "La seguridad digital no es solo técnica, es también compromiso humano." ✨
+### 💼 Experiencia académica y técnica  
+- Facilitador de talleres para más de 300 estudiantes  
+- Participación en laboratorios de hacking ético (Academia Antioquia)  
+- Quinto lugar en Páramo CTF Colombia 2025  
+- Documentación de hallazgos en pruebas de penetración  
+- Análisis de tráfico con Wireshark y escaneo con Nmap  
+- Resolución de desafíos en criptografía, ingeniería inversa y seguridad web
+
+### 🧰 Herramientas y tecnologías  
+- Linux (Kali, Parrot), Windows 10/11  
+- Wireshark, Nmap, Burp Suite  
+- MySQL, PostgreSQL  
+- Git / GitHub, Docker (básico)
+
+### 📜 Certificaciones  
+- Ciberseguridad – Academia Antioquia  
+- Ethical Hacking – CertiProf  
+- Data Analytics – Netzun (en curso)  
+- FORTINET: Amenazas 2.0  
+- Inteligencia Artificial – Talento TECH  
+- Apoyo institucional – Alcaldía de Bello (2024)
+
+### 📫 Contacto  
+🌐 LinkedIn: Tomás Álvarez Rodríguez  
+
+
+
 ---
 
 ### 👩‍💻 Angélica Gómez Pacheco (🚀)  
