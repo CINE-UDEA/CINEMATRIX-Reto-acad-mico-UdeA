@@ -67,7 +67,8 @@ El desarrollo se realizó bajo una metodología ágil, con división de roles, r
 - [Especificación de Requisitos](requisitos.md)  
 - [Visión del Proyecto CINEMATRIX](vision.md)  
 - [Integrantes y Vínculos Académicos](Integrantes-Vínculos%20acad%C3%A9micos%20y%20descripci%C3%B3n.md)  
-- [Plan de Proyecto CINEMATRIX](documentación/Plan_de_Proyecto.md)
+- [Plan de Proyecto CINEMATRIX](Plan_de_Proyecto.md)
+
 
 ---
 
