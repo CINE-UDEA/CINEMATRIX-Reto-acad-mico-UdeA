@@ -93,7 +93,7 @@ Integro la ingeniería, el marketing y la inteligencia artificial para crear sol
 ### 👩‍🔬 Luz Darys Nuñez Zapata 🌸  
 🎓 *Programa académico:* Ingeniería Industrial — Universidad de Antioquia  
 📅 *Semestre:* 4.º semestre  
-🎯 *Rol dentro del reto:* Colaboradora académica y técnica en proyectos universitarios  
+🎯 *Rol dentro del reto:* Coordinadora de flujo y lógica  
 💬 *Frase inspiradora:* "Aprender es crecer, y cada reto es una oportunidad de superación."  
 
 *🔗 Vínculo académico:*  
