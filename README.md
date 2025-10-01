@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Logo_CINEMATRIX.jpeg" alt="Logo CINEMATRIX" width="800">
+  <img src="./Logo_CINEMATRIX.jpeg" alt="Logo CINEMATRIX" width="850">
 </p>
 
 # 💻 Proyecto: CINEMATRIX
