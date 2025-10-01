@@ -77,9 +77,9 @@ El desarrollo se realizó bajo una metodología ágil, con división de roles, r
 - `/notebooks/`: Código fuente en Google Colab  
 - `/documentación/`: Archivos Markdown con requisitos, visión y plan  
 - `/recursos/`: Imágenes, diagramas y entregables  
-- `README.md`: Página principal del proyecto
+- `README.md`: Página principal del proyecto  
+- `LICENSE.md`: Licencia del proyecto
 
----
 
 ## 📄 Licencia
 
