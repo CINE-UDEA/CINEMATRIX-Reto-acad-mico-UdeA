@@ -30,12 +30,7 @@ Este repositorio forma parte de la organización **CINE-UDEA** y fue desarrollad
 - Licencia MIT 
 - Herramientas de planificación (diagrama de Gantt)  
 - Visualización básica (matplotlib) 
-- Repositorios de GitHub consultados:  
-  - [Python-Examples](https://github.com/geekcomputers/Python-Examples)  
-  - [Awesome-Python](https://github.com/vinta/awesome-python)  
-  - [Simple-Python-Projects](https://github.com/trekhleb/simple-python-projects)  
-  - [Markdown-Cheat-Sheet](https://github.com/adam-p/markdown-here)  
-- Canales de Telegram utilizados:  
+- Repositorios de GitHub consultados
   - Python para principiantes 
   - Ciberseguridad y Programación
   - comunidad Shadow-raven
