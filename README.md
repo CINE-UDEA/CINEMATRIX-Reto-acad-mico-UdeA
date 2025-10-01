@@ -16,15 +16,36 @@ Este repositorio forma parte de la organización **CINE-UDEA** y fue desarrollad
 | Denisse Fabiana Hurtado   | @denissef5            | Diseño y presentación      |
 
 
-## 🧠 Descripción del proyecto
+## Descripción del proyecto
 
-Breve descripción del reto, qué hace el código, qué problema resuelve y cómo se organizó el equipo para abordarlo.
 
-## 🚀 Tecnologías utilizadas
+## Tecnologías utilizadas
 
-- HTML / CSS / JS (según el caso)
-- GitHub Projects / Issues
-- Markdown para documentación
+- HTML
+- Tecnologías utilizadas
+- Google Colab  
+- Python 3  
+- Markdown  
+- Git y GitHub  
+- Licencia MIT 
+- Herramientas de planificación (diagrama de Gantt)  
+- Visualización básica (matplotlib) 
+- Repositorios de GitHub consultados:  
+  - [Python-Examples](https://github.com/geekcomputers/Python-Examples)  
+  - [Awesome-Python](https://github.com/vinta/awesome-python)  
+  - [Simple-Python-Projects](https://github.com/trekhleb/simple-python-projects)  
+  - [Markdown-Cheat-Sheet](https://github.com/adam-p/markdown-here)  
+- Canales de Telegram utilizados:  
+  - Python para principiantes 
+  - Ciberseguridad y Programación
+  - comunidad Shadow-raven
+
+  
+
+## Documentación del Proyecto
+
+- [Especificación de Requisitos](requisitos.md)
+- [Visión del Proyecto CINEMATRIX](vision.md)
 
 ## 📂 Estructura del repositorio
 <!-- actividad:start -->
