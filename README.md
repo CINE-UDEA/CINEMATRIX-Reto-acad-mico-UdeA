@@ -14,7 +14,7 @@ Este repositorio forma parte de la organización **CINE-UDEA** y fue desarrollad
 |----------------------------------|------------------------------|----------------------------------|
 | Tomás Álvarez Rodríguez          | [@tomasalvarez-shadow](https://github.com/tomasalvarez-shadow) | Líder académico y técnico        |
 | Angélica Paola Gómez Pacheco     | [@Angelica0511](https://github.com/Angelica0511)               | Desarrollo y documentación       |
-| Luz Darys Nuñez Zapata              | [@andresnunez10](https://github.com/andresnunez10)             | académica y técnica           |
+| Luz Darys Nuñez Zapata              | [@luznunez-netizen](https://github.com/luznunez-netizen)             | académica y técnica           |
 | Denisse Fabiana Hurtado          | [@denisse15](https://github.com/denisse15)                     | Diseño y presentación            |
 
 ---
