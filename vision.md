@@ -4,7 +4,7 @@ https://github.com/CINE-UDEA/CINEMATRIX-Reto-acad-mico-UdeA/tree/main
 
 ---
 
-## Objetivos
+## 🚀 Objetivos
 
 - **Proyectar películas recientes y clásicas**: Ofrecer una cartelera variada que abarque géneros, estilos y épocas.
 - **Expandirse a todos los campus**: Garantizar acceso equitativo a la experiencia CINEMATRIX en toda la universidad.
@@ -13,7 +13,7 @@ https://github.com/CINE-UDEA/CINEMATRIX-Reto-acad-mico-UdeA/tree/main
 
 ---
 
-##  Metas para el 2030
+## 🎯 Metas para el 2030
 
 - **Presencia en todos los campus**: Sedes físicas y virtuales que conecten a toda la comunidad universitaria.
 - **Tecnología de vanguardia**: Integración de realidad virtual (RV), realidad aumentada (RA) y sonido envolvente.
@@ -21,7 +21,7 @@ https://github.com/CINE-UDEA/CINEMATRIX-Reto-acad-mico-UdeA/tree/main
 - **Impulso al talento y empleo estudiantil**: Consolidar CINEMATRIX como plataforma académica y laboral.
 ---
 
-## Beneficios
+## 🫟 Beneficios
 
 - **Fomento de comunidad**: Espacio de encuentro para estudiantes, docentes y personal administrativo.
 - **Cultura cinematográfica**: Promoción del cine como herramienta de formación y expresión artística.
