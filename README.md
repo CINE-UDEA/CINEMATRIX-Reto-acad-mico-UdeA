@@ -87,7 +87,7 @@ Este proyecto está bajo la Licencia MIT. Puedes consultar el archivo `LICENSE.m
 
 ---
 
-## Agradecimientos
+## 🤝 Agradecimientos
 
 Agradecemos al equipo docente de *Algoritmia y Programación 2025-2* por su acompañamiento, y a la comunidad **CINE-UDEA** por inspirar este proyecto académico.
 
