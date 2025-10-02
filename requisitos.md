@@ -1,10 +1,10 @@
-# Especificación de Requisitos – Proyecto CINEMATRIX
+# 📌 Especificación de Requisitos – Proyecto CINEMATRIX
 
 Este documento presenta los requisitos funcionales y no funcionales del software CINEMATRIX, desarrollado en el entorno colaborativo Google Colab como parte del curso de Algoritmia y Programación. El proyecto está orientado a estudiantes que inician su formación en programación, con énfasis en claridad, modularidad y aprendizaje progresivo.
 
 ---
 
-## Requisitos Funcionales (RF)
+## 🕹️ Requisitos Funcionales (RF)
 
 Los requisitos funcionales definen las acciones específicas que el sistema debe ejecutar para cumplir con los objetivos del proyecto.
 
@@ -23,7 +23,7 @@ Los requisitos funcionales definen las acciones específicas que el sistema debe
 
 ---
 
-## Requisitos No Funcionales (RNF)
+## 📬 Requisitos No Funcionales (RNF)
 #shadow
 Los requisitos no funcionales definen criterios de calidad, rendimiento y usabilidad que complementan el comportamiento del sistema.
 
@@ -42,7 +42,7 @@ Los requisitos no funcionales definen criterios de calidad, rendimiento y usabil
 
 ---
 
-##  Observaciones finales
+## 🔎 Observaciones finales
 
 - Todos los requisitos están diseñados para ser implementados en Google Colab, aprovechando su accesibilidad y facilidad de uso.
 - Se prioriza la claridad, modularidad y retroalimentación visual para facilitar el aprendizaje de estudiantes sin experiencia previa.
