@@ -2,7 +2,7 @@
   <img src="./Logo_CINEMATRIX.jpeg" alt="Logo CINEMATRIX" width="850">
 </p>
 
-# 💻 Proyecto: CINEMATRIX
+# 🎞️ Proyecto: CINEMATRIX
 
 Este repositorio forma parte de la organización **CINE-UDEA** y fue desarrollado por estudiantes de Ingeniería Industrial como parte de un reto académico colaborativo.
 
@@ -29,7 +29,7 @@ El proyecto integra elementos de **ciberseguridad**, **automatización** y **vis
 
 ---
 
-##  Objetivos del Proyecto
+## ⏳ Objetivos del Proyecto
 
 - Simular un sistema de gestión cinematográfica para la comunidad universitaria.  
 - Aplicar principios de programación modular y documentación pedagógica.  
@@ -37,7 +37,7 @@ El proyecto integra elementos de **ciberseguridad**, **automatización** y **vis
 
 ---
 
-## Metodología de Trabajo
+## 🧮 Metodología de Trabajo
 
 El desarrollo se realizó bajo una metodología ágil, con división de roles, revisión por pares (*pull requests*), control de cambios mediante *issues* y planificación semanal con diagrama de Gantt.
 
@@ -62,7 +62,7 @@ El desarrollo se realizó bajo una metodología ágil, con división de roles, r
 
 ---
 
-## Documentación del Proyecto
+## 🗂️ Documentación del Proyecto
 
 - [Especificación de Requisitos](requisitos.md)  
 - [Visión del Proyecto CINEMATRIX](vision.md)  
@@ -72,7 +72,7 @@ El desarrollo se realizó bajo una metodología ágil, con división de roles, r
 
 ---
 
-## 📂 Estructura del repositorio
+## 🧩 Estructura del repositorio
 
 - `/notebooks/`: Código fuente en Google Colab  
 - `/documentación/`: Archivos Markdown con requisitos, visión y plan  
