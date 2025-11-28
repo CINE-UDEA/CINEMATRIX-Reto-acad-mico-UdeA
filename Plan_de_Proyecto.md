@@ -61,3 +61,33 @@ Indicadores de éxito:
 
 ## 10. Conclusión  
 CINEMATRIX será un referente universitario en cultura cinematográfica, innovación educativa y proyección artística. Su impacto trascenderá la proyección de películas, convirtiéndose en un espacio de encuentro, formación y oportunidades para los estudiantes de la Universidad de Antioquia.  
+
+
+CRONOGRAMA - DIAGRAMA DE GANTT
+gantt
+    title DIAGRAMA DE GANTT - PROYECTO CINEMATRIX
+    dateFormat  YYYY-MM-DD
+    section Project Management
+    Planificación del Proyecto      :pm1, 2024-01-01, 5d
+    Coordinación Semanal            :pm2, after pm1, 25d
+    Gestión de Calidad              :pm3, after pm2, 10d
+    Reportes Finales                :pm4, after pm3, 10d
+    
+    section Designing
+    Diseño Arquitectura            :des1, 2024-01-01, 7d
+    Diseño Base de Datos           :des2, after des1, 5d
+    Diseño Interfaz Usuario        :des3, after des2, 8d
+    Diseño Módulos                 :des4, after des3, 10d
+    
+    section Programming
+    Desarrollo Sistema Usuarios    :prog1, 2024-01-08, 12d
+    Módulo Reservas                :prog2, after prog1, 15d
+    Módulo Confitería              :prog3, after prog2, 10d
+    Panel Administrador            :prog4, after prog3, 8d
+    Integración Final              :prog5, after prog4, 5d
+    
+    section Testing
+    Pruebas Funcionales            :test1, 2024-02-01, 10d
+    Pruebas Usabilidad             :test2, after test1, 8d
+    Corrección Errores             :test3, after test2, 7d
+    Validación Final               :test4, after test3, 5d
