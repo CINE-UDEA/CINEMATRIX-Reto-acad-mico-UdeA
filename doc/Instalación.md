@@ -1,4 +1,6 @@
-Requisitos
+⚙️ Instalación del Sistema CINEMATRIX
+
+✅ Requisitos
 
 Python 3 o Google Colab
 
@@ -6,7 +8,7 @@ Archivo CODIGO_CINEMATRIX.ipynb
 
 Consola habilitada
 
-Instalación del sistema Cinematrix
+🧩 Instalación del sistema Cinematrix
 
 Abrir Google Colab.
 
@@ -16,12 +18,12 @@ Ejecutar todas las celdas.
 
 El sistema creará los archivos JSON si no existen.
 
-Estructura recomendada
+🗂️ Estructura recomendada
 cinematrix/
  ├── CODIGO_CINEMATRIX.ipynb
  └── data/
 
-Notas
+📌 Notas
 
 No modificar manualmente los archivos JSON.
 
