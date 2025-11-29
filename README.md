@@ -2,7 +2,7 @@
   <img src="./Logo_CINEMATRIX.jpeg" alt="Logo CINEMATRIX" width="850">
 </p>
 
-# 🎞️ Proyecto: CINEMATRIX
+#  Proyecto: CINEMATRIX
 
 Este repositorio forma parte de la organización **CINE-UDEA** y fue desarrollado por estudiantes de Ingeniería Industrial como parte de un reto académico colaborativo.
 
@@ -19,7 +19,7 @@ Este repositorio forma parte de la organización **CINE-UDEA** y fue desarrollad
 
 ---
 
-## 📽️ Descripción del Proyecto
+##  Descripción del Proyecto
 
 **CINEMATRIX** es una iniciativa académica desarrollada por estudiantes de Ingeniería Industrial de la Universidad de Antioquia como parte del reto integrador de la asignatura *Algoritmia y Programación 2025-2*. El proyecto simula un sistema de gestión cinematográfica dirigido a la comunidad universitaria, con énfasis en accesibilidad, diversidad cultural y experiencia inmersiva.
 
@@ -29,7 +29,7 @@ El proyecto integra elementos de **ciberseguridad**, **automatización** y **vis
 
 ---
 
-## ⏳ Objetivos del Proyecto
+## Objetivos del Proyecto
 
 - Simular un sistema de gestión cinematográfica para la comunidad universitaria.  
 - Aplicar principios de programación modular y documentación pedagógica.  
@@ -37,7 +37,7 @@ El proyecto integra elementos de **ciberseguridad**, **automatización** y **vis
 
 ---
 
-## 🧮 Metodología de Trabajo
+##  Metodología de Trabajo
 
 El desarrollo se realizó bajo una metodología ágil, con división de roles, revisión por pares (*pull requests*), control de cambios mediante *issues* y planificación semanal con diagrama de Gantt.
 
@@ -72,7 +72,7 @@ El desarrollo se realizó bajo una metodología ágil, con división de roles, r
 
 ---
 
-## 🧩 Estructura del repositorio
+##  Estructura del repositorio
 
 - `/notebooks/`: Código fuente en Google Colab  
 - `/documentación/`: Archivos Markdown con requisitos, visión y plan  
@@ -87,7 +87,7 @@ Este proyecto está bajo la Licencia MIT. Puedes consultar el archivo `LICENSE.m
 
 ---
 
-## 🤝 Agradecimientos
+##  Agradecimientos
 
 Agradecemos al equipo docente de *Algoritmia y Programación 2025-2* por su acompañamiento, y a la comunidad **CINE-UDEA** por inspirar este proyecto académico.
 
