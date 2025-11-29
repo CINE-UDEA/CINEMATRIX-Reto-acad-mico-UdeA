@@ -60,7 +60,7 @@ Integro la ingeniería industrial, la ciberseguridad educativa y la automatizaci
 
 ---
 
-### 👩‍💻 Angélica Gómez Pacheco (🚀)  
+## 👩‍💻 Angélica Gómez Pacheco (🚀)  
 🎓 *Programa académico:* Ingeniería Industrial — Universidad de Antioquia  
 📚 *Semestre actual:* 5° semestre  
 🧠 *Rol dentro del reto:* Documentadora y analista pedagogica
@@ -90,7 +90,7 @@ Integro la ingeniería, el marketing y la inteligencia artificial para crear sol
 
 ---
 
-### 👩‍🔬 Luz Darys Nuñez Zapata 🌸  
+## 👩‍🔬 Luz Darys Nuñez Zapata 🌸  
 🎓 *Programa académico:* Ingeniería Industrial — Universidad de Antioquia  
 📅 *Semestre:* 4.º semestre  
 🎯 *Rol dentro del reto:* Coordinadora de flujo y lógica  
