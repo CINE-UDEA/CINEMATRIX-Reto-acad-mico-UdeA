@@ -19,6 +19,7 @@ Ejecutar todas las celdas.
 El sistema creará los archivos JSON si no existen.
 
 🗂️ Estructura recomendada
+
 cinematrix/
  ├── CODIGO_CINEMATRIX.ipynb
  └── data/
