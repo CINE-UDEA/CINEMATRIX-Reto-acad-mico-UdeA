@@ -1,4 +1,4 @@
-⚙️ Instalación del Sistema CINEMATRIX
+# ⚙️ Instalación del Sistema CINEMATRIX
 
 ✅ Requisitos
 
