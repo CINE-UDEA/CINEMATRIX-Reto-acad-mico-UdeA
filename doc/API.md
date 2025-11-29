@@ -1,4 +1,4 @@
-🔌 Documentación API – CINEMATRIX
+# 🔌 Documentación API – CINEMATRIX
 
 
 📝 Registro de usuario
