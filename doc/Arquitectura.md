@@ -1,8 +1,10 @@
-Tipo de arquitectura
+# 🏗️ Arquitectura del Sistema CINEMATRIX
+
+🧠 Tipo de arquitectura
 
 El sistema utiliza una arquitectura monolítica modular, organizada mediante funciones que separan la lógica del sistema.
 
-Módulos principales
+🔗 Módulos principales
 
 Usuarios: registro, validación e inicio de sesión.
 
@@ -14,7 +16,7 @@ Confitería: compras y cancelaciones.
 
 Administrador: reportes y estadísticas.
 
-Estructura de datos
+🧬 Estructura de datos
 
 Los datos se almacenan en archivos JSON:
 
@@ -26,7 +28,8 @@ reservas.json
 
 confiteria.json
 
-Flujo del sistema
+🔄 Flujo del sistema
+
 Inicio
  ├── Registro
  ├── Login
