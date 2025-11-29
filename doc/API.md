@@ -1,5 +1,6 @@
 🔌 Documentación API – CINEMATRIX
 
+
 📝 Registro de usuario
 
 Función encargada de validar y almacenar nuevos usuarios.
