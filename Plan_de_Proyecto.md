@@ -8,7 +8,7 @@ El cine es un medio artístico, pedagógico y cultural que potencia el aprendiza
 CINEMATRIX busca llenar ese vacío, ofreciendo un cine universitario con visión académica, cultural y tecnológica, que permita:  
 - Enriquecer la vida estudiantil.  
 - Incentivar la creación artística y cinematográfica.  
-- Ofrecer oportunidades académicas y laborales para los estudiantes.  
+- Ofrecer oportunidades académicas y laborales para los estudiantes.
 
 ## 3. Objetivos  
 ### Objetivo general  
